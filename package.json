@@ -1,0 +1,12 @@
+{
+  "name": "typescript-template",
+  "description": "TypeScript Repository Template",
+  "version": "1.0.0",
+  "private": true,
+  "author": "lupuscaoticus@gmail.com",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.6.1"
+  }
+}
